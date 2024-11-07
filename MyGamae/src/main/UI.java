@@ -441,7 +441,7 @@ public class UI {
 		
 		text ="Retry";
 		x = getXforCentersdText(text);
-		y = gp.tileSize *4;
+		y = gp.tileSize *6;
 		
 		g2.drawString(text, x , y);
 		if(commandNum == 0) {

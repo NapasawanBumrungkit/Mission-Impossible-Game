@@ -22,8 +22,5 @@ public class OBJ_Heart extends Entity {
 		image3 = setup("/objects/heart_blank", gp.tileSize,gp.tileSize);
 		
 	}
-	public void use(Entity entity) {
-		
-		
-	}
+	
 }

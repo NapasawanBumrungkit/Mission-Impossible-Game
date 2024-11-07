@@ -20,7 +20,7 @@ public class Mon_GteenSlime extends Entity{
 		speed = 1;
 		maxLife = 20;
 		life = maxLife;
-		attack = 5;
+		attack = 1;
 		defense = 0;
 		exp = 2;
 		
